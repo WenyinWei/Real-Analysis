@@ -1,0 +1,17 @@
+Title         : Real Analysis Notes
+Author        : Wenyin Wei
+Aligned { replace:"~Math&nl;\begin{aligned}&nl;&source;&nl;\end{aligned}&nl;~" }
+[TITLE]
+# Cardinal Number
+
+
+
+~ Aligned
+ \left | \mathbb{N} \right |&=\omega \\ 
+ \left | \mathbb{R} \right |&=c \\ 
+ \left | \mathbb{R}^{\mathbb{N}} \right |&=2^\omega =c\\
+\left | \mathbb{R}^{\mathbb{R}} \right | &=2^c
+~
+
+
+The zero points of the rational coefficient polynomial becomes the algebraic number, not the real number of the algebraic number is called the transcendental number.
