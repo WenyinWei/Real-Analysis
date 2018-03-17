@@ -1,0 +1,71 @@
+[INCLUDE=style/lncs]
+Title       : Solutions for Real Analysis
+Author      : Wenyin Wei[1]{.inst}
+Email       : weiwy16@mails.tsinghua.edu.cn
+
+Author      : Joan R. Access[2]{.inst}
+Affiliation : Other institute
+Email       : other@bar.com
+
+Author      : Third[1]{.inst}
+
+Bibliography: example.bib
+Logo        : True
+
+[TITLE]
+
+~ Abstract
+Here restores as many as possible solutions of Guoyi Xi teacher's class. Hope you grow from the nutrient.
+~
+
+* A figure of a _butterfly_;
+* Some **mathematics**;
+* And some source code;
+* And references to Tex books [@Knuth:TeX;@Lamport:LaTeX;@Goo93;@Fberg04] and others [@Grandstrand]. 
+
+~ Equation { #euler }
+e = \lim_{n\to\infty} \left( 1 + \frac{1}{n} \right)^n
+~
+
+
+
+~ Lemma { #lemma-test; caption:"A __lemma__ caption" }
+There he lay, a vast red-golden dragon, fast asleep; thrumming came from
+his jaws and nostrils, and wisps of smoke, but his fires were low in
+slumber
+~
+
+~ Proof { caption:"Of Lemma [#lemma-test]" }
+Roads go ever ever on.
+~
+
+
+~ Lemma { caption:"Another lemma" }
+There is little or no magic about them, except the ordinary everyday sort
+which helps them to disappear quietly and quickly when large stupid folk
+like you and me come blundering along, making a noise like elephants
+which they can hear a mile off.
+~
+
+
+[BIB]
+
+~TexRaw
+\vfill
+\pagebreak
+\appendix
+~
+
+# An appendix { @h1="A" }
+
+"All the same, I should like it all plain and clear," said he
+obstinately, putting on his business manner (usually reserved for people
+who tried to borrow money off him), and doing his best to appear wise and
+prudent and professional and live up to Gandalf's recommendation. "Also I
+should like to know about risks, out-of-pocket expenses, time required
+and remuneration, and so forth" -- by which he meant: "What am I going to
+get out of it? and am I going to come back alive?"
+
+# Conclusion
+
+Really fun to write Markdown :-)
