@@ -32,9 +32,9 @@ Now $\int_{A_i} f_k d\mu\geq \int_{\{f_k\geq a_i t\}\bigcap A_i}a_i t d\mu\geq
 \int_{\{\inf\limits_{n\geq k}f_n\geq a_i t \}\bigcap A_i } a_i t d\mu=a_i t \mu(\{\inf\limits_{n\geq k}f_n\geq a_i t\}\bigcap A_i)$
 
 
-Note ($\bigcup\{\inf\limits_{n\geq k} f_n\geq a_i t\}\bigcap A_i)=A_i$
+Note $\bigcup\limits_{k=1}^{\infty}(\{\inf\limits_{n\geq k} f_n\geq a_i t\}\bigcap A_i)=A_i$
 
-Now $\underline{\lim}\int_{A_i} f_k d\mu\geq a_i t\ \underline{\lim} \mu \{\inf\limits_{n\geq k} f_n\geq a_i t\}\bigcap A_i\}=a_i t \mu(A_i)$
+Now $\underline{\lim}\int_{A_i} f_k d\mu\geq a_i t\ \underline{\lim}\ \mu (\{\inf\limits_{n\geq k} f_n\geq a_i t\}\bigcap A_i)=a_i t \mu(A_i)$
 
 The proof is now complete.
 
