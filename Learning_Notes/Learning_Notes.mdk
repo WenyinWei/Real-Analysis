@@ -22,7 +22,7 @@ Only need to show $\forall g\leq \underline{\lim}f_k,g=\sum\limits_{i=1}^{\infty
 
 ~ Aligned
    &  \underline{\lim}\int f_k d\mu\geq \int g d \mu\\
-   \Leftarrow  & \underline{\lim}f_k d\mu\geq \sum_{i=1}^M \mu(A_i)a_i\quad \forall M\\
+   \Leftarrow  & \underline{\lim}\int f_k d\mu\geq \sum_{i=1}^M \mu(A_i)a_i\quad \forall M\\
    \Leftarrow  & \underline{\lim}\sum_{i=1}^M \int_{A_i}f_k d\mu\geq \sum_{i=1}^M \mu (A_i)a_i\quad \forall M\\
    \Leftarrow  & \underline{\lim}\int_{A_i}f_kd\mu\geq a_i\mu(A_i)\quad \forall M,i\\
    \Leftarrow  & \underline{\lim}\int_{A_i}f_k d\mu\geq a_i t \mu(A_i)\quad \forall M,i,t\in (0,1)
