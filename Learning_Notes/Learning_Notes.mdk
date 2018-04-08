@@ -1,5 +1,5 @@
 Title         : Real Analysis Notes
-Author        : Wenyin Wei
+Author        : Wenyin Wei, Jiaqi Zang
 Aligned { replace:"~Math&nl;\begin{aligned}&nl;&source;&nl;\end{aligned}&nl;~" }
 [TITLE]
 # Cardinal Number
