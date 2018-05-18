@@ -47,3 +47,17 @@ Though $g_k$ may never be no less than $a_i$, $g_k$ can ultimately surpass $t a_
 ta_i \mu(A_i)$. And the proof is complete.
 
 Remark: $\mu(A_i)$ may be $+\infty$, but this won't make the preceding proof fail.
+
+# Chapter 4 Compactness of function spaces
+
+Completeness depends on $f_i-f_j$ linear structure of space
+
+Compactness applies both on linear and non-linear case
+
+## 4.1 Riesz-Markov representation theorem
+
+Our final purpose of this chapter is <Thm 4.7>, (Weak Compactness of Radon Measures)
+
+uniformly bounded on compact sets
+
+
